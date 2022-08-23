@@ -1,2 +1,2 @@
-# NinoArteiroRebellion---NFT-Contract
-Contract code (NFT) of Nino Arteiro
+# NostalgicCharacters---NFT-Contract
+Contract code (NFT) of Nostalgic Characters
